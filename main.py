@@ -133,4 +133,4 @@ async def highscore(ctx):
 
 bot.loop.create_task(save())
 
-bot.run('ODk0MzQ5OTM4OTkxOTU1OTk4.YVouSQ.WNDVbh0UCOr4qe-oAiZJddww_Gk')
+bot.run('')
